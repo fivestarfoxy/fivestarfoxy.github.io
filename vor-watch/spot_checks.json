@@ -1,0 +1,36 @@
+{
+  "plos": {
+    "page": 7,
+    "location": "Definition 4, scalar objective in the natural-gradient definition",
+    "before": "codomain R^n",
+    "after": "codomain R",
+    "negative_control": {
+      "page": 1,
+      "same_normalized_text": true,
+      "same_72dpi_pixels": true
+    }
+  },
+  "mdpi": {
+    "page": 11,
+    "location": "Section 4.1, final paragraph",
+    "before": "Mentions contamination residues on the AA7075 sample surface.",
+    "after": "Specifies added Gaussian and impulse noise and artificial pixel masking.",
+    "additional_control": {
+      "page": 1,
+      "before": "re-cquisition",
+      "after": "re-acquisition"
+    },
+    "negative_control": {
+      "page": 2,
+      "same_normalized_text": true,
+      "same_72dpi_pixels": true
+    }
+  },
+  "elife": {
+    "page": 5,
+    "location": "Figure 3H, model row, lower false-alarm-rate trace",
+    "measurement": "approximate plotted y at 87% of the panel's horizontal axis",
+    "before": 0.445,
+    "after": 0.322
+  }
+}

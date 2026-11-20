@@ -1,0 +1,71 @@
+[
+  {
+    "id": "plos",
+    "publisher": "PLOS",
+    "authors": "Patrick M. Wensing and Jean-Jacques Slotine",
+    "title": "Beyond convexity\u2014Contraction and global convergence of gradient descent",
+    "article": "https://doi.org/10.1371/journal.pone.0236661",
+    "official_notice": "https://doi.org/10.1371/journal.pone.0243330",
+    "history": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243330",
+    "publisher_notice_status": "announced",
+    "record": "notices/plos.json",
+    "before": {
+      "publication_date": "2020-08-04",
+      "download": "https://journals.plos.org/plosone/article/file?type=supplementary&id=10.1371/journal.pone.0243330.s001",
+      "sha256": "7a654ed8c1b9b0d36249ecdf11b44f2ffba48fb2051cd30adcad7a8bac4da894",
+      "bytes": 1697302
+    },
+    "after": {
+      "publication_date": "2020-09-24",
+      "download": "https://journals.plos.org/plosone/article/file?type=supplementary&id=10.1371/journal.pone.0243330.s002",
+      "sha256": "9b84911385d4a5b825f40b9ed5dba4906bbe197dfb97cb457590359f6f691ab1",
+      "bytes": 1703003
+    }
+  },
+  {
+    "id": "mdpi",
+    "publisher": "MDPI",
+    "authors": "Qing Li and Steven Y. Liang",
+    "title": "Microstructure Images Restoration of Metallic Materials Based upon KSVD and Smoothing Penalty Sparse Representation Approach",
+    "article": "https://doi.org/10.3390/ma11040637",
+    "official_notice": "https://doi.org/10.3390/ma13112436",
+    "history": "https://www.mdpi.com/1996-1944/11/4/637/notes",
+    "publisher_notice_status": "announced",
+    "record": "notices/mdpi.json",
+    "before": {
+      "publication_date": "2018-04-20",
+      "download": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5951521.1/PMC5951521.1.pdf",
+      "sha256": "727f2aa955eef83defe6796cf674b0c202c6a2ae080ca90ce62f806b38647d2f",
+      "bytes": 9084698
+    },
+    "after": {
+      "publication_date": "2020-06-02",
+      "download": "https://www.mdpi.com/1996-1944/11/4/637/pdf",
+      "sha256": "83e7ac6c91ff160b0f09a77afafebd2e901eb2c81257f17ef9e5410f712fbf45",
+      "bytes": 9090384
+    }
+  },
+  {
+    "id": "elife",
+    "publisher": "eLife",
+    "authors": "Megan A. K. Peters and Hakwan Lau",
+    "title": "Human observers have optimal introspective access to perceptual processes even for visually masked stimuli",
+    "article": "https://doi.org/10.7554/eLife.09651",
+    "official_notice": "https://doi.org/10.7554/eLife.16332",
+    "history": "https://api.elifesciences.org/articles/09651/versions",
+    "publisher_notice_status": "announced",
+    "record": "notices/elife.json",
+    "before": {
+      "publication_date": "2016-02-01",
+      "download": "https://cdn.elifesciences.org/articles/09651/elife-09651-v2.pdf",
+      "sha256": "09da933b0161482bd3981ad49c987029de04ede7ce4ec6beee3793e9ce685e75",
+      "bytes": 3626364
+    },
+    "after": {
+      "publication_date": "2016-03-31",
+      "download": "https://cdn.elifesciences.org/articles/09651/elife-09651-v3.pdf",
+      "sha256": "15116a04a817b9733fbfffc122554daaa04e5fcd5949b48cb6ee895cfc0954c1",
+      "bytes": 3606097
+    }
+  }
+]
